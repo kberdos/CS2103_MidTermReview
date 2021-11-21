@@ -1,5 +1,5 @@
 //import java.util.HashMap;
-
+// suck my balls
 public class OurArrayList<T> {
 
     private final int INITIAL_CAPACITY = 512;
